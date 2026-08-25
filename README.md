@@ -389,26 +389,6 @@ LEARNING MODE: ACTIVE
 
 ---
 
-# `> ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=victorhugo-dba&bg_color=050505&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# `> GITHUB_TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=victorhugo-dba&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-
-</div>
-
----
-
 ## > CONTRIBUTION_PROTOCOL
 
 <div align="center">
