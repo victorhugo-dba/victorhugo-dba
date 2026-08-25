@@ -62,11 +62,11 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Olá! Eu sou **Victor Hugo**, estudante de **Administração de Banco de Dados e Big Data**, apaixonado por tecnologia, programação, infraestrutura, automação e sistemas.
+Hello world! I am **Victor Hugo**, a student of **Database Administration and Big Data** with a passion for technology, programming, infrastructure, automation, and systems.
 
-Meu foco principal está em **bancos de dados, SQL, automação de processos e análise de dados**, buscando transformar tarefas repetitivas em soluções mais inteligentes e eficientes.
+My primary focus is on **databases, SQL, process automation, data analysis, and cybersecurity**, aiming to transform repetitive tasks into smarter, more efficient solutions.
 
-Atualmente também estou expandindo meus conhecimentos em **Python, Inteligência Artificial e Cyber Security**, construindo uma base sólida nessas áreas e explorando como elas podem trabalhar juntas com dados e automação.
+I am also currently expanding my knowledge of **Python, Artificial Intelligence, and Cybersecurity**, building a solid foundation in these areas and exploring how they can work together with data and automation.
 
 ```yaml
 name: Victor Hugo
@@ -264,7 +264,7 @@ CYBER SECURITY
 
 ### 🗄️ EVManager
 
-Sistema de gerenciamento de eventos utilizando banco de dados relacional.
+Event management system using a relational database.
 
 **Stack**
 
@@ -282,7 +282,7 @@ Sistema de gerenciamento de eventos utilizando banco de dados relacional.
 
 ### 🤖 Automation Hub
 
-Projetos voltados para automação de processos, integração de sistemas e workflows.
+Projects focused on process automation, system integration, and workflows.
 
 **Stack**
 
@@ -304,7 +304,7 @@ Projetos voltados para automação de processos, integração de sistemas e work
 
 ### 📊 Data Projects
 
-Projetos relacionados a banco de dados, SQL, tratamento e análise de dados.
+Projects related to databases, SQL, and data processing and analysis.
 
 **Stack**
 
@@ -322,7 +322,7 @@ Projetos relacionados a banco de dados, SQL, tratamento e análise de dados.
 
 ### 🔐 Security Lab
 
-Estudos e experimentos relacionados aos fundamentos de Cyber Security.
+Studies and experiments related to the fundamentals of cybersecurity.
 
 **Stack**
 
@@ -479,12 +479,3 @@ LEARNING MODE: ACTIVE
 
 </div>
 ```
-
-**Agora o README inteiro está com `victorhugo-dba`**, inclusive Stats, Languages, Streak, Activity Graph, Trophies e o caminho da Snake.
-
-Só tem **dois detalhes externos** que precisam ser configurados:
-
-1. **LinkedIn:** trocar `SEU_LINKEDIN` pela URL do seu perfil.
-2. **Snake:** criar o GitHub Action que gera `github-contribution-grid-snake-dark.svg`; sem isso, essa imagem específica continuará quebrada.
-
-Se você me mandar **seu link do LinkedIn**, eu também consigo te devolver o trecho final já preenchido.
