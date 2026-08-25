@@ -419,6 +419,7 @@ LEARNING MODE: ACTIVE
 
 ---
 
+``
 # `> SOCIAL_NETWORK`
 
 <div align="center">
@@ -427,15 +428,16 @@ LEARNING MODE: ACTIVE
 <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/victor-hugo-da-costa-lourenço-b361562b2/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:victor.costa.hugo.2.vh@gmail.com">
 <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 </div>
+```
 
 ---
 
