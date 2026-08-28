@@ -49,9 +49,9 @@
 │                                                              │
 │  DATABASE    : ██████████████████████████████  ONLINE        │
 │  AUTOMATION  : ██████████████████████████████  ONLINE        │
-│  PYTHON      : ███████████████░░░░░░░░░░░░░  INTERMEDIATE   │
-│  AI          : ██████░░░░░░░░░░░░░░░░░░░░  BEGINNER       │
-│  SECURITY    : ██████░░░░░░░░░░░░░░░░░░░░  BEGINNER       │
+│  PYTHON      : ███████████████░░░░░░░░░░░░░  INTERMEDIATE    │
+│  AI          : ██████░░░░░░░░░░░░░░░░░░░░  BEGINNER          │
+│  SECURITY    : ██████░░░░░░░░░░░░░░░░░░░░  BEGINNER          │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -219,7 +219,7 @@ CYBER SECURITY
 ║  SQL / MySQL             ████████████████████  ADVANCED  ║
 ║  n8n                     ████████████████████  ADVANCED  ║
 ║  Python                  ███████████████░░░░░  INTERMED. ║
-║  VPS / Infrastructure    ███████████░░░░░░░░  WORKING   ║
+║  VPS / Infrastructure    ███████████░░░░░░░░  WORKING    ║
 ║  Microsoft 365           ███████████████░░░░░  ACTIVE    ║
 ║  Artificial Intelligence ██████░░░░░░░░░░░░░░  BEGINNER  ║
 ║  Cyber Security          ██████░░░░░░░░░░░░░░  BEGINNER  ║
@@ -241,7 +241,7 @@ CYBER SECURITY
 ║  [01] MySQL                 ████████████████████  ADV    ║
 ║  [02] SQL                   ████████████████████  ADV    ║
 ║  [03] n8n                   ████████████████████  ADV    ║
-║  [04] Python                ███████████████░░░░░  INTER   ║
+║  [04] Python                ███████████████░░░░░  INTER  ║
 ║  [05] VPS                   ███████████░░░░░░░░░  ACTIVE ║
 ║  [06] Git                   ████████████████░░░░  ACTIVE ║
 ║  [07] GitHub                ████████████████░░░░  ACTIVE ║
@@ -444,9 +444,9 @@ LEARNING MODE: ACTIVE
 ```text
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
-║                SYSTEM CONNECTION ESTABLISHED              ║
+║                SYSTEM CONNECTION ESTABLISHED               ║
 ║                                                            ║
-║       "The future belongs to those who build it."         ║
+║       "The future belongs to those who build it."          ║
 ║                                                            ║
 ║                     STATUS: ONLINE                         ║
 ║                                                            ║
